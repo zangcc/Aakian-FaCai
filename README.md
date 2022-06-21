@@ -4,6 +4,9 @@
 初始版本，功能比较简单，但是也能满足vue的常规扫描。
 基于jdk1.8开发，也就是java8，其他版本的jdk可能会无法运行，建议切换到开发版本。
 ### 工具运行方法：
+把xjar.exe文件和Aakian.jar文件放在同一目录下，用下面的命令运行即可。（jdk1.8）
+
+
 xjar.exe java -jar Aakian.jar
 
 <img src="https://user-images.githubusercontent.com/64825932/174664693-d9eab2cf-1049-43b2-ad0b-f87bd5a23791.png" width="700px">
@@ -13,6 +16,7 @@ xjar.exe java -jar Aakian.jar
 
 正常扫描的结果：
 
+<img src="https://user-images.githubusercontent.com/64825932/174708944-700cef67-7a71-46a2-9441-4b0f8e1ab82e.png" width="650px">
 
 
 ### 功能介绍：
@@ -21,3 +25,7 @@ xjar.exe java -jar Aakian.jar
 为了方便验证，返回的是响应包的大小，如果大小类似，说明不存在未授权，接口访问过去返回的还是原来的前台登录界面。
 所以也增加了返回包的内容，通过内容，大小，更直观的判断是否页面成功跳转。
 ### 工具的功能图片&展示：
+<img src="https://user-images.githubusercontent.com/64825932/174708944-700cef67-7a71-46a2-9441-4b0f8e1ab82e.png" width="650px">
+<img src="https://user-images.githubusercontent.com/64825932/174709151-8d0b105d-0966-4a96-8ea3-3740216da1d8.png" width="650px">
+
+
