@@ -12,7 +12,7 @@
 1、可以自查JS文件。
 2、可以自定义URL进行所有接口的拼接测试。
 
-教程文章：https://blog.csdn.net/weixin_43847838/article/details/125841581?spm=1001.2014.3001.5501
+详情可以看教程文章第四大点-（四、2023年8月10日更新内容）：https://blog.csdn.net/weixin_43847838/article/details/125841581?spm=1001.2014.3001.5501
 
 
 
