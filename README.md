@@ -5,6 +5,11 @@
 欢迎指点。
 
 ## 2023年8月10日-> FaCai_V1.0.0_jdk8_zangcc深情版
+
+启动/运行命令:java -javaagent:FaCai_V1.0.0_jdk8_zangcc深情版.jar -jar FaCai_V1.0.0_jdk8_zangcc深情版.jar
+
+（jar的文件夹可以随意更改，命令格式不变，仅支持java8）
+
 更换界面GUI
 
 <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/64825932/259633469-a3fdd94a-89af-466c-bcf9-f8e8a6d461f8.png" width="700px">
