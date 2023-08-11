@@ -8,7 +8,7 @@
 
 启动/运行命令:java -javaagent:FaCai_V1.0.0_jdk8_zangcc深情版.jar -jar FaCai_V1.0.0_jdk8_zangcc深情版.jar
 
-（jar的文件夹可以随意更改，命令格式不变，仅支持java8）
+（jar的文件名可以随意更改，命令格式不变，仅支持java8）
 
 更换界面GUI
 
